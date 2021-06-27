@@ -4,7 +4,7 @@ A utility to quickly scaffold new Go modules.
 
 ## Install
 
-`go get github.com/leaanthony/newmod`
+`go get github.com/leaanthony/newmod/cmd/newmod`
 
 ## Usage
 
